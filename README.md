@@ -3,9 +3,10 @@
 Control PyMOL molecular visualization with hand gestures via your webcam using MediaPipe hand tracking.
 
 
-<p align="center">
-  <video src="assets/demo1-s.mp4" alt="Demo" width="600" controls></video>
-</p>
+https://github.com/user-attachments/assets/122f88f1-7538-4fee-abf1-89b4337af956
+
+
+
 
 ## Gestures
 
